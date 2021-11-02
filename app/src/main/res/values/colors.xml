@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#E7DDF1</color>
+    <color name="color_primary">#FFFF1A</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="dark_black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text_color">#524f4e</color>
+    <color name="red">#F33131</color>
+    <color name="light_white">#f2f3f4</color>
+    //Dashboard background color
+    <color name="home_background">#f2f5f8</color>
+    <color name="banner_background">#f1E9CE</color>
+    <color name="banner_background_light">#56F1E9CE</color>
+
+    //Card color
+    <color name="card1">#D4CBE5</color>
+    <color name="card2">#7ABCCf</color>
+    <color name="card3">#F7C59F</color>
+    <color name="card4">#ED9CB8</color>
+
+    //category
+    <color name="hospital">#66bb6a</color>
+    <color name="library">#7986cb</color>
+    <color name="gym">#00695c</color>
+    <color name="water_park">#29b6f6</color>
+    <color name="resorts">#2e7d32</color>
+    <color name="transport">#ffc400</color>
+    <color name="movie">#f4511e</color>
+    <color name="shops">#ff80ab</color>
+    <color name="restaurant">#ff7961</color>
+</resources>

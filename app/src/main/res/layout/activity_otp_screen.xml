@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".otp_screen">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="30dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:padding="5dp"
+            android:src="@drawable/close_icon"
+            app:tint="@color/black" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/muli_black"
+            android:gravity="center"
+            android:text="@string/otp"
+            android:textAllCaps="true"
+            android:textColor="@color/black"
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/muli_black"
+            android:text="@string/otpsent"
+            android:textSize="20sp" />
+
+        <com.chaos.view.PinView
+            android:id="@+id/OTP_Num"
+            style="@style/PinWidget.PinView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:cursorVisible="true"
+            android:inputType="number"
+            android:itemBackground="@color/purple_200"
+            app:cursorColor="@color/purple_700"
+            app:hideLineWhenFilled="true"
+            app:itemCount="6"
+            app:itemHeight="50dp"
+            app:itemRadius="2dp"
+            app:itemWidth="50dp"
+            app:lineColor="@color/black" />
+
+        <Button
+            android:id="@+id/verify"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="@color/color_primary"
+            android:fontFamily="@font/muli_black"
+            android:text="@string/verify"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+</ScrollView>

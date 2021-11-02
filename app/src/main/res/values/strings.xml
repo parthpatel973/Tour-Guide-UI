@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    //slider images
+    <string name="first_slide_title">Search Your Location</string>
+    <string name="second_slide_title">Make A Call</string>
+    <string name="third_slide_title">Add Missing Place</string>
+    <string name="fourth_slide_title">Sit Back And Enjoy</string>
+
+    //slider desc
+    <string name="first_slide_desc">You can search any place nearby or with-in the specified city. We will display specific or all related shops to match your search. </string>
+    <string name="second_slide_desc">We provide almost all the numbers of all departments and shops registered with us. You can perform bookings as well.</string>
+    <string name="third_slide_desc">If you have a shop or somethings and want to be a part of our growing industry then add your place by following simple steps.</string>
+    <string name="fourth_slide_desc">We will handle everything for you. As you have the app in your pocket then you dont have to worry about anything.</string>
+
+    // nav
+    <string name="home">Home</string>
+    <string name="login">login</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate Us</string>
+
+    //slider button
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="lets_Go">Lets GO </string>
+
+    //Dashboard category
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shops">Shops</string>
+    <string name="banks">Banks</string>
+    <string name="airports">Airports</string>
+    <string name="hospital">Hospital</string>
+
+    //Dashboard Titles
+    <string name="all_location">All location</string>
+    <string name="all_location_description">All the location that are featured and have the top demand in town.</string>
+    <string name="most_viewed_location">Most Viewed</string>
+    <string name="category">Category</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search</string>
+
+    //card
+    <string name="starbucks">Starbucks Coffee are the most popular coffee chains in the world.</string>
+
+    //login and signup
+
+    <string name="signUp">sign up</string>
+    <string name="anyhelp">Any Help?</string>
+    <string name="Enter_username">Enter Username</string>
+    <string name="Enter_password">Enter Password</string>
+    <string name="remember">Remember Me</string>
+    <string name="forgot_pass">Forgot Password</string>
+    <string name="create_acc">Create Account</string>
+    <string name="Welcome">Welcome To Tour Guide</string>
+    <string name="missing_place">You can add missing place as well.</string>
+    <string name="fullName">Fullname</string>
+    <string name="UserName">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="next">Next</string>
+    <string name="phoneNumber">PhoneNumber</string>
+    <string name="Choose_gender">Choose Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+    <string name="Select_age">Select Your Age</string>
+    <string name="otp">otp verification</string>
+    <string name="otpsent">Enter OTP sent on +91 9737179255</string>
+    <string name="verify">Verify</string>
+    <string name="forgot_desc">Provide your Phone Number associated with your account</string>
+    <string name="Make_Selection">Make Selection</string>
+    <string name="make_Selection_desc">Select which contact detail should we use to reset your password?</string>
+    <string name="via_sms">via sms:</string>
+    <string name="phone_num">+91 9737179255</string>
+    <string name="via_mail">via mail:</string>
+    <string name="email_add">support@gmail.com</string>
+    <string name="set_new_pass">Set New Password</string>
+    <string name="new_pass">New Password</string>
+    <string name="confirm_pass">Confirm Password</string>
+    <string name="update">Update</string>
+    <string name="password_updated">Password Updated</string>
+    <string name="password_updated_desc">your password has been updated</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

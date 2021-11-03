@@ -1,3 +1,3 @@
 # Tour-Guide-UI 
 
-Tour guide app with login authentication 
+Tour guide app with Firebase authentication 
